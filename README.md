@@ -1,0 +1,2 @@
+# GOC
+Video Generation platform
